@@ -1,0 +1,17 @@
+{
+  "name": "Desafios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "¨Cristiano <cristiano.so@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "nodemon desafio1.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
