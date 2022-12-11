@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "eslint": "^6.5.1",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "scripts": {
     "dev": "nodemon desafio1.js"
